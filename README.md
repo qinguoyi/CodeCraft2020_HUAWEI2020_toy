@@ -1,6 +1,6 @@
 2020华为软件精英挑战赛热身赛
 ===============
-<div align=center><img width="679" height="34" src="https://github.com/twomonkeyclub/CodeCraft2019/blob/master/result/chusai.jpg"/></div>
+<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1gdbrs1mg7zj30ep02xq2q.jpg" height="120"/> </div>
 
 #### 赛题简述
 通俗讲，**赛题打算通过研究现有数据的规律，然后对新数据进行二分类。**
