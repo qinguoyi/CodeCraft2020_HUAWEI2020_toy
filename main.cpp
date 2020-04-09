@@ -25,7 +25,7 @@ using namespace chrono;
 const int EVERY = 700; //每个线程读取的数据量
 const int TEST0 = 200; //阈值区间范围置1,其余算法
 const int TEST1 = 1100;
-const char CLASS = '1';
+const char CLASS = '0'; //线下68.1为类0，线上68.1为类1
 
 // string trainDataPwd = "/data/train_data.txt";
 // string testFile = "/data/test_data.txt";
