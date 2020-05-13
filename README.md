@@ -23,12 +23,3 @@
 	* 每行数据预测后，生成类别+换行符，主线程通过fwrite写入文件
 
 <div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1gdby9l8vc0j30ve0vtadf.jpg" height="500"/> </div>
-
-#### 具体解析
-选择底部菜单栏：**互联网 -> 经验分享 -> 2020华为软挑热身赛代码开源-思路大起底**
-
-更多资料，请关注公众号 **“两猿社”**.
-> * **带你丰富互联网相关项目经验，轻松应对校招！！！**
-> * **项目模块详细讲解，在公众号内持续更新！！！**
-
-<div align=center><img src="https://github.com/twomonkeyclub/TinyWebServer/blob/master/root/test1.jpg" height="350"/> </div>
